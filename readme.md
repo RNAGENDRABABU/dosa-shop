@@ -8,5 +8,8 @@
 * Dosa batter
 * oil 
 * Erra karam
-=======
-* Light oil
+
+## Egg Dosa
+* Dosa batter
+* 2 eggs
+* oil and karam
